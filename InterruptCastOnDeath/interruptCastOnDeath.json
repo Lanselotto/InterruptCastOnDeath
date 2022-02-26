@@ -1,0 +1,11 @@
+{
+  "Author": "Lanselotto",
+  "Name": "Interrupt Cast On Death",
+  "Punchline": "/icod to open menu.",
+  "Description": "A plugin for Dalamud that interrupts the cast when the target dies. /cod to open menu",
+  "InternalName": "castOnDeath",
+  "ApplicableVersion": "any",
+  "Tags": [
+  ],
+  "DalamudApiLevel": 5
+}
