@@ -10,7 +10,7 @@
     "DalamudApiLevel": 5,
     "IsHide": "False",
     "IsTestingExclusive": "false",
-    "DownloadLinkInstall": "https://github.com/Lanselotto/InterruptCastOnDeath/raw/master/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Lanselotto/InterruptCastOnDeath/raw/master/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Lanselotto/InterruptCastOnDeath/releases/download/Latest/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Lanselotto/InterruptCastOnDeath/releases/download/Latest/latest.zip",
   }
 ]
