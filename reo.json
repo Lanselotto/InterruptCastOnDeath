@@ -1,0 +1,16 @@
+[
+  {
+    "Author": "Lanselotto",
+    "Name": "Interrupt Cast On Death",
+    "Tags": [],
+    "InternalName": "InterruptCastOnDeath",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Lanselotto/InterruptCastOnDeath",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 5,
+    "IsHide": "False",
+    "IsTestingExclusive": "false",
+    "DownloadLinkInstall": "https://github.com/Lanselotto/InterruptCastOnDeath/raw/master/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Lanselotto/InterruptCastOnDeath/raw/master/latest.zip",
+  }
+]
